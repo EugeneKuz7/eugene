@@ -1,8 +1,8 @@
 {
     "title": "Оцените приложение!",
     "message": "Вам понравилось приложение? Поставьте нам оценку в AppGallery",
-    "version": "2.1",
-    "build": 100,
+    "version": "0.1",
+    "build": 1,
     "type": "page",
     "link": "https://appgallery.huawei.com/#/app/C107207303",
     "direct_link": ""
