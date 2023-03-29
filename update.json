@@ -1,9 +1,9 @@
 {
-    "title": "Оцените приложение!",
-    "message": "Вам понравилось приложение? Поставьте нам оценку в AppGallery",
-    "version": "0.1",
-    "build": 1,
+    "title": "Любите игры?!",
+    "message": "В магазине SteamBuy вы можете купить ключ к любой игре, без VPN и прочих костылей, по низким ценам, а так же пополнить кошелёк Steam!",
+    "version": "20.1",
+    "build": 100,
     "type": "page",
-    "link": "https://appgallery.huawei.com/#/app/C107207303",
+    "link": "https://steambuy.com/partner/1165414",
     "direct_link": ""
 }
