@@ -1,8 +1,8 @@
 {
     "title": "Любите игры?!",
     "message": "В этом магазине вы можете купить ключ к любой игре, без VPN и прочих костылей, по низким ценам, а так же пополнить кошелёк Steam!",
-    "version": "20.1",
-    "build": 100,
+    "version": "0.1",
+    "build": 1,
     "type": "page",
     "link": "https://steambuy.com/partner/1165414",
     "direct_link": ""
