@@ -1,9 +1,9 @@
 {
-    "title": "Любите игры?!",
-    "message": "В этом магазине вы можете купить ключ к любой игре, без VPN и прочих костылей, по низким ценам, а так же пополнить кошелёк Steam!",
-    "version": "0.1",
-    "build": 1,
+    "title": "Обновление!",
+    "message": "Обновите приложение в Google Play!",
+    "version": "40.1",
+    "build": 400,
     "type": "page",
-    "link": "https://steambuy.com/partner/1165414",
+    "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.vkm",
     "direct_link": ""
 }
